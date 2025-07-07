@@ -4,33 +4,29 @@ Welcome to my GitHub profile! I'm a curious and driven tech enthusiast from Alge
 
 ---
 
-## 🛠️ What I Do
+* 👨‍💻 All of my projects are available at [Repositories](https://github.com/nilville?tab=repositories)
+* 📫 How to reach me [zaouiinire45@gmail.com](mailto:zaouiinire45@gmail.com)
 
-* 💻 **Linux User & Tweaker**
-  Comfortable with **Kali Linux**, **XFCE**, **GNOME**, and love customizing and optimizing my desktop environments.
+---
 
-* 🌐 **Web Developer & UI Fixer**
-  I build and tweak frontends, fix CSS bugs, and even make custom **Chrome/Brave extensions** for cleaner UI (like removing Instagram border-radius).
+## 🌐 Connect with me
 
-* ⚙️ **Automation Fanatic**
-  Whether it’s managing swap memory, pushing code to GitHub, or setting up VMs with NAT networking, I enjoy streamlining everything.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inire-zaoui-419216318)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mlsc87)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zaoui_inire)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29656371)
 
 ---
 
 ## 💡 Skills & Tools
 
-* **Languages:** JavaScript, TypeScript, Python, Bash
-* **Frameworks:** Node.js, React, Tailwind CSS
-* **OS:** Kali Linux, Windows
-
----
-
-## 📌 Highlights
-
-* 🧰 Created custom browser extensions for UI improvement
-* ⚙️ Automated system tasks and optimized performance 
-* 🔐 Learning bug bounty techniques and ethical hacking
-* 🧪 Regularly testing AI models locally 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ---
 
@@ -41,12 +37,3 @@ Welcome to my GitHub profile! I'm a curious and driven tech enthusiast from Alge
 * Publishing more useful tools and extensions to GitHub
 
 ---
-
-## 📫 Let's Connect
-
-I'm always open to learning, collaborating, or just chatting about tech.
-Feel free to explore my repos or reach out!
-
----
-
-🧠 *"Break it to understand it. Automate it to master it."*
