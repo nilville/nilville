@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Zaoui Inir
+# 👋 Hello World!
 
-Welcome to my GitHub profile! I'm a curious and driven tech enthusiast from Algeria 🇩🇿 with a passion for **Linux**, **AI models**, **web development**, and **automation**. I explore, build, and break things to learn how they work — and I share my journey here.
+Welcome to my GitHub profile! I'm a curious and driven tech enthusiast from eastern Algeria with a passion for **Linux**, **AI models**, **web development**, and **automation**. I explore, build, and break things to learn how they work — and I share my journey here.
 
 ---
 
