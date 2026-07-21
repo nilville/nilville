@@ -43,5 +43,4 @@ Welcome to my GitHub profile! I'm a curious and driven tech enthusiast from east
 * Building my personal portfolio 
 * Learning more about Linux internals and cybersecurity
 * Publishing more useful tools and extensions to GitHub
-
----
+* 
